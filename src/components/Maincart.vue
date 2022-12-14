@@ -42,7 +42,8 @@
       Your cart is currently empty!! Add some products!
     </div>
    <div class="flex flex-col justify-center items-center text-3xl text-white">Total: {{ getTotal }}</div>
-  <a href="https://www.paypal-mobilemoney.com/m-pesa/topup"><button class="flex justify-center items-center p-5 ml-52 text-white rounded-md bg-slate-900">check Out</button></a>
+  <a href="https://www.paypal-mobilemoney.com/m-pesa/topup">
+    <button class="flex p-5 text-white rounded-md bg-slate-900 md:mr-40">check Out</button></a>
   </main>
 </template>
 

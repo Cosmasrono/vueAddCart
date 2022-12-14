@@ -20,7 +20,7 @@
       <h1
         class="flex justify-center items-center px-1 py-2 pb-2 mx-auto text-2xl text-white uppercase"
       >
-        products
+        Choose the product
       </h1>
 
       <div
